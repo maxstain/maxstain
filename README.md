@@ -19,7 +19,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBC" alt="React" title="React" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]&nbsp;
 
 <a name="learning-next"></a>
 
