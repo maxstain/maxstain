@@ -14,7 +14,7 @@
 
 ## 🔍  Where to find me
 
-[Twitter](https://twitter.com/ryzerrector) :bird:
-[Instagram](http://instagram.com/ryzerrector) 📸
-[Twitch](http://twitch.tv/ryzerrector) 📺 
-[LinkedIn](https://www.linkedin.com/in/firas-chabchoub-6a355624/) 👩‍💻
+- [Twitter](https://twitter.com/ryzerrector) :bird:
+- [Instagram](http://instagram.com/ryzerrector) 📸
+- [Twitch](http://twitch.tv/ryzerrector) 📺 
+- [LinkedIn](https://www.linkedin.com/in/firas-chabchoub-6a355624/) 👩‍💻
