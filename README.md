@@ -4,22 +4,22 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs logo" title="Vue" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs logo" title="Vue" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript logo" title="Vue" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript logo" title="Vue" height="25" />]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/Junit-282C34?logo=Junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Junit-282C34?logo=Junit&logoColor=E34F26" alt="Junit logo" title="Junit" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBC" alt="React" title="React" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBC" alt="React" title="React" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]
 
 <a name="learning-next"></a>
 
