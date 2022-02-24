@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Maxstain, AKA Ryzerrector, welcome to my profile 👋
+## 👋 Hi there, I'm Maxstain, AKA Ryzerrector, welcome to my profile 👋
 
 ### Checkout my Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxstain&show_icons=true&theme=radical)
