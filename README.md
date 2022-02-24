@@ -32,10 +32,10 @@
 <a href="https://steamcommunity.com/id/ryzerrector/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>&nbsp;
 
 
-## 🔍  Where to find me
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxstain&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxstain&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 🔍  Where to find me
+
 [Twitter](http://twitter.com/MishManners) :bird:
 [Instagram](http://instagram.com/mishmanners) 📸
 [Twitch](http://twitch.tv/MishManners) 📺 
