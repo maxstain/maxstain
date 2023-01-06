@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Maxstain, AKA Ryzerrector, welcome to my profile 👋
+## 👋 Hi there, I'm Firas, AKA Ryzerrector, welcome to my profile 👋
 
 ### Checkout my Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxstain&show_icons=true&theme=radical)
@@ -18,3 +18,4 @@
 - [Instagram](http://instagram.com/ryzerrector) 📸
 - [Twitch](http://twitch.tv/ryzerrector) 📺 
 - [LinkedIn](https://www.linkedin.com/in/firas-chabchoub-6a355624/) 👩‍💻
+- [Website](https://firaschabchoub.netlify.app/) :web:
