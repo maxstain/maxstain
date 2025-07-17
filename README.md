@@ -9,8 +9,8 @@
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" />Ryzerrector #7094</a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" />Ryzerrector
 #2637</a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="https://steamcommunity.com/id/ryzerrector/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>&nbsp;
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" />Ryzerrector</a> 
+<a href="https://steamcommunity.com/id/ryzerrector/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" />Ryzerrector</a>&nbsp;
 
 ## 🔍  Where to find me
 
